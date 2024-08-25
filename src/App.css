@@ -1,0 +1,18 @@
+.App {
+  padding: 24px;
+}
+
+* {
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+  font-style: normal;
+  font-variation-settings:
+          "slnt" 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  /*background: var(--background-color-light);*/
+}
